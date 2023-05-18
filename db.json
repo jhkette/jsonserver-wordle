@@ -31,7 +31,12 @@
     ],
     "solutions": [
   
-      { "id": 1, "word": "hello" }
+      { "id": 1, "word": "hello" },
+      { "id": 2, "word": "ninja" },
+      { "id": 3, "word": "build" },
+      { "id": 4, "word": "stake" },
+      { "id": 5, "word": "byway" },
+      { "id": 6, "word": "track" }
     ],
     "words": [
       "right",
